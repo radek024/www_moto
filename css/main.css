@@ -515,6 +515,11 @@ base color:
     font-size: 0.7em;
   }
 
+  .carousel .carousel-caption{
+    margin-left: 0;
+    width: auto;
+  }
+
   .collapsing{
     margin-top: 20px;
   }
