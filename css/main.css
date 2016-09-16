@@ -509,7 +509,7 @@ base color:
   }
 
   .carousel .carousel-caption h2{
-    font-size: 1.8em;
+    font-size: 1em;
   }
   .carousel .carousel-caption .text{
     font-size: 0.7em;
@@ -519,15 +519,31 @@ base color:
     margin-top: 20px;
   }
 
+  .summary-item .item-heading{
+    font-size: 1.5em;
+  }
+
+  .summary-list .summary-item{
+    margin-left: 0;
+  }
+
+  .summary .text-content{
+    padding-left: 0;
+  }
+
 }
 @media all and (max-width: 1140px){
   .heading .heading-title{
-    font-size: 1.6em;
+    font-size: 1.4em;
     margin-top: 0;
     padding-top: 20px;
   }
 
   .footer .text-content{
     max-width: initial;
+  }
+
+  .services .services-list{
+    padding-left: 0;
   }
 }
