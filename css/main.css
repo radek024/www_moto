@@ -495,7 +495,7 @@ base color:
   }
 
   .carousel-indicators{
-    margin-bottom: 5%;
+    margin-bottom: 0;
   }
 
   .carousel-indicators li{
@@ -518,6 +518,7 @@ base color:
   .carousel .carousel-caption{
     margin-left: 0;
     width: auto;
+    padding-top: 10%;
   }
 
   .collapsing{
