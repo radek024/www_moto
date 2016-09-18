@@ -476,6 +476,10 @@ base color:
     .collapse.in{
         display:block !important;
     }
+
+    .carousel li{
+    margin: 0;
+    }
 }
 
 @media all and (max-width: 868px){
@@ -535,6 +539,11 @@ base color:
 
   .summary .text-content{
     padding-left: 0;
+  }
+
+  .about .row {
+    padding: 0;
+    margin: 0;
   }
 
 }
